@@ -100,8 +100,8 @@ man syspeek
 
 ## 📄 License
 
-MIT — free to use, modify and distribute.
+This project is licensed under the MIT License — see the [LICENSE](https://chatgpt.com/c/LICENSE) for details.
 
 ---
 
-> Built with ❤️ by Angelo Patane (2025) — A mechanical engineer with a passion for Linux, Go, and clean terminal tools.
+> Built with ❤️ by Angelo Patane (2025) — A mechanical engineer with a passion for open source, Linux, and Golang development.
