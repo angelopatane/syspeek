@@ -1,0 +1,24 @@
+# Binaries
+syspeek
+*.exe
+*.out
+
+# Logs
+*.log
+
+# Dependency directories (if any)
+vendor/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Go build artifacts
+*.test
+*.mod
+*.sum
+
+# IDE/project files
+*.idea/
