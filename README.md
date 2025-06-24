@@ -62,6 +62,20 @@ Now run the tool with:
 ./syspeek --cpu --mem --refresh=3 --log=output.log
 ```
 
+## 📸 Preview
+
+### 🔍 All System Metrics (`--all`)
+
+![SysPeek All](assets/syspeek-all.png)
+
+### 🆘 Help Menu (`--help`)
+
+![SysPeek Help](assets/syspeek-help.png)
+
+### 📘 Manual Page (`man syspeek`)
+
+![SysPeek Manual](assets/syspeek-manual.png)
+
 ## 4. Logging
 
 SysPeek supports logging system output to a specified file via the `--log` flag. This is great for audits, diagnostics, or simply saving a snapshot.
@@ -97,6 +111,7 @@ man syspeek
 - Battery status 🔋
 - Export in JSON/CSV formats
 - Remote system monitoring
+- GUI
 
 ## 📄 License
 
